@@ -4,7 +4,7 @@ public class RetiroNacional {
 
     public String consultarSaldo(double saldo, double monto){
 
-        if (saldo>0 && monto<=saldo &&){
+        if (saldo>0 && monto<=saldo){
 
             saldo=saldo-monto;
 
